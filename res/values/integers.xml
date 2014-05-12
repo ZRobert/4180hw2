@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="seekBarMax">100</integer>
+    <integer name="seekBarDefault">25</integer>
+</resources>
